@@ -1,3 +1,3 @@
 def add(a, b):
-    return  a - b # BUG INTENTIONALLY!
+    return  a - b
 print("App is running")
