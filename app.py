@@ -1,5 +1,3 @@
-hello ="hellow world"
-print(hello)
-
-for i in hello :
-    print (i)
+def add(a, b):
+    return a + b
+print("App is running")
