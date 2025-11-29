@@ -1,4 +1,6 @@
 from app import add
 
 def test_add():
-    assert add(2, 2) == 4
+    worth = add(2,2)
+    assert worth == 4
+    print(worth)
